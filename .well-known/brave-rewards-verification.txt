@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: robehstars.github.io
+Token: 20f6df0964204f7cebb4e8926d3493d390cbc44db4f885744fc964e64ee588cd
